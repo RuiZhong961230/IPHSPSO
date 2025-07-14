@@ -17,6 +17,7 @@ note = {Accept}
 }
 
 ## Datasets and Libraries
+The Oxford University lithium battery aging data can be downloaded at https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac
 
 ## Contact
 If you have any questions, please don't hesitate to contact 3210205317[at]stu.ahpu.edu.cn and zhongrui[at]iic.hokudai.ac.jp
